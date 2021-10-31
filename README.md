@@ -1,6 +1,10 @@
 <h1>Al-Fath Tourism</h1>
 
+<<<<<<< HEAD
 <h4>Live Website: https://alfath-89d51.web.app/</h4>
+=======
+<h4>Live Website: https://alfath-89d51.web.app/ </h4>
+>>>>>>> d22d4148833646278ba58948f0cb96285d80156d
 
 <h5>
  <ul>
