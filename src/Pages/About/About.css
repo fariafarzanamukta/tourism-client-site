@@ -1,0 +1,74 @@
+.about {
+    background-image: url("https://static1.shine.com/l/m/images/blog/Tourism-Jobs.jpg"),
+      linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+      background-repeat: no-repeat;
+    height: 700px;
+    width: 100%;
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.title {
+    color: white;
+    font-weight: bold;
+    font-size: 59px;
+  }
+  .about-btn {
+    background-color: #112a47d5;
+    outline: none;
+    border: none;
+    padding: 15px 10px;
+    border-radius: 20px;
+    color: white;
+    width: 100px;
+  }
+  .about-btn:hover{
+      background-color: rgba(3, 9, 29, 0.828);
+      outline: none;
+      border: none;
+      padding: 15px 10px;
+      border-radius: 20px;
+      width: 100px;
+  }
+  .about-header{
+      margin-top: 200px;
+  }
+  .about-img{
+      width: 600px;
+
+  }
+
+  .about-part{
+      background-color: cadetblue;
+  box-shadow: 2px 2px 12px 2px rgba(85, 103, 143, 0.459);
+    }
+
+    .about-partThree{
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+       
+    }
+    .tour img{
+        height: 100px;      
+    }
+    .tour{
+        box-shadow: 10px 10px 10px 10px rgba(85, 103, 143, 0.459);
+    padding: 20px;
+   ;
+    }
+
+    .tour h6{
+        font-size: 30px;
+    }
+    /* Make it responsive */
+@media only screen and (max-width:688px) {
+    .about_container{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+@media only screen and (min-width:689px) and (max-width: 991px){
+    .about_container{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "বান্দরবন",
+        "duration": "৩দিন + ২রাত",
+        "img": "https://i.ibb.co/dJQYcJM/image.jpg",
+        "ammount": "Will be Updated"
+    },
+    {
+        "id": 2,
+        "title": "সেন্টমার্টিন",
+        "duration": "২দিন + ৩রাত",
+        "img": "https://i.ibb.co/27j4BhB/image.jpg",
+        "ammount": "Will be Updated"
+    },
+    {
+        "id": 3,
+        "title": "চায়ের দেশ শ্রীমঙ্গল ",
+        "duration": "১দিন + 1রাত",
+        "img": "https://i.ibb.co/dJQYcJM/image.jpg",
+        "ammount": "Will be Updated"
+    },
+    {
+        "id": 4,
+        "title": "নাপিত্তাছড়া ট্রেইল।",
+        "duration": "২রাত +২দিন",
+        "img": "https://i.ibb.co/txjkxZp/image.jpg",
+        "ammount": "Will be Updated"
+    },
+    {
+        "id": 5,
+        "title": "সুন্দরবন",
+        "duration": "৩রাত + ২দিন",
+        "img": "https://i.ibb.co/SBHQzBN/image.jpg",
+        "ammount": "Will be Updated"
+    },
+    {
+        "id": 6,
+        "title": "টাঙ্গুয়ার হাওর",
+        "duration": "৩রাত + ২দিন",
+        "img": "https://i.ibb.co/jVpx65y/image.jpg",
+        "ammount": "Will be Updated"
+    },
+    {
+        "id": 7,
+        "title": "কেওক্রাডং",
+        "duration": "২রাত +২দিন",
+        "img": "https://i.ibb.co/jVpx65y/image.jpg",
+        "ammount": "Will be Updated"
+    },
+    {
+        "id": 8,
+        "title": "সোনাদিয়া দ্বীপে ক্যাম্পিং",
+        "duration": "২রাত +২দিন",
+        "img": "https://i.ibb.co/ZHKf3fx/image.jpg",
+        "ammount": "Will be Updated"
+    }
+]

@@ -1,0 +1,102 @@
+.contact {
+    background-image: url("https://media.istockphoto.com/photos/closeup-image-of-male-hands-using-smartphone-with-icon-telephone-picture-id1168945108?b=1&k=20&m=1168945108&s=170667a&w=0&h=vuUT6Qw8h-eRIHQEesB0_fC1V1xgQtPdWp4KyaVXq0M="),
+      linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+      background-repeat: no-repeat;
+    height: 500px;
+    width: 100%;
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.title {
+    color: #06eafa;
+    font-weight: bold;
+    font-size: 59px;
+  }
+  .contact_title{
+    color: #06eafa;
+    text-align: center;
+
+  }
+  .contact-btn {
+    background-color: #112a47d5;
+    outline: none;
+    border: none;
+    padding: 15px 10px;
+    border-radius: 20px;
+    color: white;
+    width: 100px;
+    /* margin-left: 100px; */
+  }
+  .contact-btn:hover{
+      background-color: rgba(3, 9, 29, 0.828);
+      outline: none;
+      border: none;
+      padding: 15px 10px;
+      border-radius: 20px;
+      width: 100px;
+  }
+  .contact-header{
+      margin-top: 200px;
+  }
+
+  .contact-form {
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/312/851/784/dolomiti-italy-autumn-lago-antorno-landscape-photography-desktop-hd-wallpaper-for-pc-tablet-and-mobile-3840%C3%972400-wallpaper-preview.jpg"),
+      linear-gradient(rgba(0, 0, 0, 0.781), rgba(5, 2, 20, 0.493));
+      background-repeat: no-repeat;
+    height: 670px;
+    width: 100%;
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+  }
+  .form-header{
+    margin-top: 50px;
+  }
+
+  .contact-input{
+      width: 400px;
+      border:none;
+      border-radius: 20px ;
+      padding: 12px 20px;
+      font-weight: bold;
+
+  }
+  .contact-submit{
+    width:120px;
+    border-radius: 20px;
+    background-color: darkslategrey;
+    border:none;
+    padding:10px 20px;
+    color: floralwhite;
+    
+  }
+
+  .contact-reset{
+    width:120px;
+    border-radius: 20px;
+    background-color: rgb(66, 10, 33);
+    border:none;
+    padding:10px 20px;
+    color: floralwhite;
+  }
+
+  .subscribe{
+    background-color: lightblue;
+  }
+  .subscribe-email input{
+    border: none;
+    padding: 8px 45px;
+
+  }
+
+  .subscribe-email button{
+    border: none;
+    padding: 8px 25px;
+    background-color: palevioletred;
+    font-weight: bold;
+
+  }
